@@ -2,7 +2,7 @@
 
 Full Tutorial: https://www.instructables.com/id/Make-Your-Drone-Gesture-Controlled-in-10/
 
-(https://i.ytimg.com/vi_webp/XhHzeBEhZjA/maxresdefault.webp)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/XhHzeBEhZjA/maxresdefault.webp)](https://youtu.be/XhHzeBEhZjA)
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/XhHzeBEhZjA/mq2.jpg?sqp=CPTT8PMF&rs=AOn4CLBpzz7RVSybyuPdU0N-ZDYhX0p56g)](https://youtu.be/XhHzeBEhZjA)
 
