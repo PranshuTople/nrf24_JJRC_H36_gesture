@@ -9,6 +9,6 @@ There is an image processing script running on my laptop which is continuously l
 
 If you have any doubts, you can let me know!
 
-If you have reached till here and found this repository helpful,
-please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂
-This will help me make more such useful tutorials for you. Thank You! ✌🏻
+If you have reached till here and found this repository helpful,</br>
+please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂</br>
+This will help me make more such useful tutorials for you. Thank You! ✌🏻</br>
